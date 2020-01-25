@@ -1,0 +1,13 @@
+﻿PImage;Product;Desc;Cost;Special
+pinacolada_small.jpg;Pina Colada Small;A nice beverage to quench your thirst;25;
+pinacolada_big.jpg;Pina Colada Big;Go BIG BIG BIG!;250;True
+ardbeg_small.jpg;Ardbeg 10 year;Smokey Whisky for your soul;399;
+ardbeg_large.jpg;Ardbeg 10,20,50 year;The hardcore whiskeylover!;7500;True
+chillout_small.png;Chillout 1 bottle;A nice bottle of wine;95;
+chillout_large.png;Chillout Party Pack;When one isn't enough;299;True
+heineken.jpg;Heineken 6 pack;Cold beers in the sun;90;
+treapor_small.jpg;Tre Apor 1 bottle;Nice white wine;75;
+treapor_large.jpg;Tre Apor Bag-in-Box;For companys or depressed persons;360;True
+mojito_small.jpg;Mojito single;A nice drink with spices;45;
+mojito_large.jpg;Mojito 4 pack;Mojitos in bottles;130;True
+;hello;This is a product;;True
